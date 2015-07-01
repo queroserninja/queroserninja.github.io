@@ -1,2 +1,2 @@
-# queroserninja.github.io
+# http://queroser.ninja
 queroser.ninja website
