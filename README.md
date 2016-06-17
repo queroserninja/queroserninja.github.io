@@ -1,2 +1,2 @@
-# http://queroser.ninja
+# https://queroser.ninja
 > queroser.ninja website
