@@ -1,0 +1,15 @@
+{
+  "title": "I want to be a ninja!",
+  "by": "by",
+  "coupon": "I want coupon!",
+  "javascript": {
+    "text": "The course to learn how to be a REAL JavaScript developer!"
+  },
+  "git": {
+    "text": "Learn how to use git to version your projects and work better in teams!"
+  },
+  "react": {
+    "text": "The course to become a React ninja, and all the tools of the ecosystem!"
+  }
+
+}

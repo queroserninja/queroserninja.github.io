@@ -1,0 +1,14 @@
+{
+  "title": "Quiero ser un ninja!",
+  "by": "por",
+  "coupon": "Quiero cupon!",
+  "javascript": {
+    "text": "¡El curso para aprender cómo convertirse en un programador REAL de JavaScript!"
+  },
+  "git": {
+    "text": "Aprenda a usar git para versionar sus proyectos y trabajar mejor en equipos!"
+  },
+  "react": {
+    "text": "El curso para convertirte en un ninja en React, y todas las herramientas del ecosistema!"
+  }
+}
